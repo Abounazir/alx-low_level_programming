@@ -9,8 +9,9 @@
  * faults, etc.) is usually terminated by a non-zero return.
  * 
  * Return: returns zero by default if there are no errors
- * otherwise a non zero value is returned*/
-int main (void)
+ * otherwise a non zero value is returned
+ */
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
