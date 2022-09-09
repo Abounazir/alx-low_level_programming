@@ -6,7 +6,7 @@
  * Otherwise return a non-zero vaue
  */
 int main(void)
-	
+/**return zero if there are no errors*/	
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
