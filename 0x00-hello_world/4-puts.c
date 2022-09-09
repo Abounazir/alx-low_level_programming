@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * Main: serves as the entry point of the program
+ * Main - It serves as the entry point of the program
+ *
  * Return: returns zero by default if there are no errors
  * otherwise return a non-zero value
 */
