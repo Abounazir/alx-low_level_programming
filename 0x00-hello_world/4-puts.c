@@ -9,7 +9,7 @@
  * otherwise return a non-zero value
 */
 int main(void)
-/** Main serves as the entry point of the program*/
+/* Main serves as the entry point of the program*/
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
