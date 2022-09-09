@@ -3,11 +3,11 @@
 /**
  * Main-This is the program entry point.
  *
- * Description-This program prints exactly
+ * Description-Function Main  prints exactly
  * "and that piece of art is useful" -
  * Dora Korpar, 2015-10-19,
  * followed by a new line, to the standard error.
- * Return-This program should return 1 on success.
+ * Return-This program should return value 1 on success.
  */
 
 int main(void)
