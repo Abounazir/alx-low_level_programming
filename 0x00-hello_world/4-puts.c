@@ -2,10 +2,10 @@
 /**
  * main - serves as the entry point for the program
  *
- * The return value for main is used to indicate 
- * how the program exited. If the program execution 
- * was normal, a 0 return value is used. 
- * Abnormal termination(errors, invalid inputs, segmentation 
+ * Description -The return value for main is used to indicate
+ * how the program exited. If the program execution
+ * was normal, a 0 return value is used.
+ * Abnormal termination(errors, invalid inputs, segmentation
  * faults, etc.) is usually terminated by a non-zero return.
  */
 int main(void)
