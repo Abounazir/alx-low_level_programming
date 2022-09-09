@@ -7,8 +7,7 @@
  * was normal, a 0 return value is used.
  * Abnormal termination(errors, invalid inputs, segmentation
  * faults, etc.) is usually terminated by a non-zero return.
- * 
- * Return: returns zero by default if there are no errors
+ *  Return: returns zero by default if there are no errors
  * otherwise a non zero value is returned
  */
 int main(void)
