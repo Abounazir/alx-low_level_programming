@@ -8,7 +8,7 @@
  *Dora Korpar, 2015-10-19,
  *followed by a new line, to the standard error.
  *
- *return-This program should return value 1 on success.
+ *return-Return value 1 on success.
  */
 
 int main(void)
