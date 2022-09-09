@@ -6,7 +6,8 @@
 
  *
 
- * Return:0 if no errors, return non zero if errors
+ * Return: returns zero by default if there are no errors                                                                 
+ * otherwise return a non-zero value  
 
  */
 
