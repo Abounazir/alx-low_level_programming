@@ -1,22 +1,17 @@
 #include <stdio.h>
-
 /**
-
- * main-entry point for the program.
-
+ * main - serves as the entry point for the program
  *
-
- * Return: returns zero by default if there are no errors                                                                 
- * otherwise return a non-zero value  
-
+ * Description -The return value for main is used to indicate
+ * how the program exited. If the program execution
+ * was normal, a 0 return value is used.
+ * Abnormal termination(errors, invalid inputs, segmentation
+ * faults, etc.) is usually terminated by a non-zero return.
+ *  Return: returns zero by default if there are no errors
+ * otherwise a non zero value is returned
  */
-
 int main(void)
-
 {
-
 	printf("with proper grammar, but the outcome is a piece of art,\n");
-
 	return (0);
-
 }
