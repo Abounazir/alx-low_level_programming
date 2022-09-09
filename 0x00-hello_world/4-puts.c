@@ -7,8 +7,10 @@
  * was normal, a 0 return value is used.
  * Abnormal termination(errors, invalid inputs, segmentation
  * faults, etc.) is usually terminated by a non-zero return.
- */
-int main(void)
+ * 
+ * Return: returns zero by default if there are no errors
+ * otherwise a non zero value is returned*/
+int main (void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
