@@ -1,15 +1,10 @@
 #include <unistd.h>
-
 /**
- *main-This is the program entry point.
- *
- *Description-Function Main prints exactly
- *and that piece of art is useful -
- *Dora Korpar, followed by a new line,
- *to the standard error.
- *return value of main-This time, we return an error value of 1.
+ * main - Entry point
+ * Description: print a quote using write function
+ * ssize_t write(int fd, const void *buf, size_t count);
+ * Return: This time we return an error 1.
  */
-
 int main(void)
 
 {
