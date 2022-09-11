@@ -3,15 +3,15 @@
 /**
  * main - prints the lowercase alphabets in reverse.
  *
- * Return - (0)
+ * Return: 0
  */
 
 int main(void)
 {
-	char letter;
+	int l;
 
-	for (letter = 'z'; letter >= 'a'; letter--)
-		putchar(letter);
+	for (l = 'z'; l >= 'a'; l--)
+		putchar(l);
 
 	putchar('\n');
 
